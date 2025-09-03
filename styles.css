@@ -5,5 +5,18 @@
 }
 
 .havefun {
-  margin: auto;
+  /* margin: 0 auto; */
+  text-align: center;
+}
+
+.headshot {
+  border: 1px dotted blue;
+}
+
+.me {
+  width: 200px;
+  border-radius: 50%;
+  border: 2px solid red;
+  display: block;
+  margin: 0 auto;
 }
